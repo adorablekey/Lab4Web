@@ -1,9 +1,9 @@
-          # Lab4Web
-          # Nama: Keysia nurhayati br panjaitan
-          # Nim : 312410350
-          # Kelas : TI.24.A4
+# Lab4Web
+# Nama: Keysia nurhayati br panjaitan
+# Nim : 312410350
+# Kelas : TI.24.A4
                      
-          # membuat Box Element
+# membuat Box Element
                       ```html
                      <!DOCTYPE html>
                      <html lang="en">
@@ -45,9 +45,9 @@
                      </body>
                      </html>
          
-         <img width="1920" height="1200" alt="Screenshot 2025-10-16 161317" src="https://github.com/user-attachments/assets/490d087c-0f55-4658-bb88-e8c486501e73" />
+<img width="1920" height="1200" alt="Screenshot 2025-10-16 161317" src="https://github.com/user-attachments/assets/490d087c-0f55-4658-bb88-e8c486501e73" />
                      
-          # membuat layout sederhana
+ # membuat layout sederhana
                       <!DOCTYPE html>
                      <html lang="en">
                      <head>
@@ -111,13 +111,13 @@
                      </body>
                      </html>
                      
-         # halaman home            
-         <img width="1920" height="1200" alt="Screenshot 2025-10-16 161231" src="https://github.com/user-attachments/assets/0243ebfd-aa6a-45de-b6dd-539269d8a0bd" />
+# halaman home            
+<img width="1920" height="1200" alt="Screenshot 2025-10-16 161231" src="https://github.com/user-attachments/assets/0243ebfd-aa6a-45de-b6dd-539269d8a0bd" />
          
-         # halaman artikel 
-         <img width="1920" height="1200" alt="Screenshot 2025-10-16 161027" src="https://github.com/user-attachments/assets/1e54f346-0d53-4cab-a422-d18219bf3a46" />
+# halaman artikel 
+<img width="1920" height="1200" alt="Screenshot 2025-10-16 161027" src="https://github.com/user-attachments/assets/1e54f346-0d53-4cab-a422-d18219bf3a46" />
          
-         # kode css style
+# kode css style
          
                      /* import google font */ 
                      @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap'); 
@@ -371,9 +371,9 @@
                   </body>
                   </html> 
          
-         <img width="1920" height="1200" alt="Screenshot 2025-10-16 160923" src="https://github.com/user-attachments/assets/ea05f05f-bfba-4f69-be95-1abf4dee6790" />
+<img width="1920" height="1200" alt="Screenshot 2025-10-16 160923" src="https://github.com/user-attachments/assets/ea05f05f-bfba-4f69-be95-1abf4dee6790" />
          
-         # layout kontak
+# layout kontak
          
          <!DOCTYPE html>
          <html lang="en">
