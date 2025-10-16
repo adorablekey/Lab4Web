@@ -329,7 +329,7 @@
                      .entry .right-img { 
                          float: right; 
                      }
-         # menambahkan layout about
+  # menambahkan layout about
          
                   <!DOCTYPE html>
                   <html lang="en">
