@@ -329,7 +329,50 @@
             .entry .right-img { 
                 float: right; 
             }
+# menambahkan layout about
 
+         <!DOCTYPE html>
+         <html lang="en">
+         <head> 
+             <meta charset="UTF-8">
+             <meta name="viewport" content="width=device-width, initial-scale=1.0">
+             <title>Tentang Kami</title>
+             <link rel="stylesheet" href="style.css">
+         </head>
+         <body>
+             <div id="container">
+                 <header>
+                     <h1>Tentang Kami</h1>
+                 </header>
+         
+                 <nav>
+                     <a href="home.html">Home</a>
+                     <a href="about.html" class="active">About</a>
+                     <a href="artikel.html">Artikel</a>
+                     <a href="kontak.html">Kontak</a>
+                 </nav>
+         
+                 <section id="main">
+                     <h2>Deskripsi</h2>
+                     <p>Website ini dibuat sebagai latihan dasar layout menggunakan HTML5 dan CSS Float.</p>
+         
+                     <h2>Portfolio</h2>
+                     <ul>
+                         <li>Project 1 - Desain Web</li>
+                         <li>Project 2 - Sistem Informasi Penjualan</li>
+                         <li>Project 3 - Aplikasi kalkulator</li>
+                     </ul>
+                 </section>
+         
+                 <footer>
+                     <p>&copy; 2025 - Universitas Pelita Bangsa</p>
+                 </footer>
+             </div>
+         </body>
+         </html> 
+
+<img width="1920" height="1200" alt="Screenshot 2025-10-16 160923" src="https://github.com/user-attachments/assets/ea05f05f-bfba-4f69-be95-1abf4dee6790" />
+         
             
             
                                 
